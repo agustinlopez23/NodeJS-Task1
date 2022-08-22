@@ -1,5 +1,6 @@
 Agustin Lopez Node2nd Mañana
-Funcionalidades de este Script
+
+Funcionalidades de este Script:
 
 1-Todos los endpoints básicos de la API de Fakestore se deben poder acceder a través de nuestra API, ej: /products, /products/:id, y sus análogos para Categorías, carritos y usuarios.
 
